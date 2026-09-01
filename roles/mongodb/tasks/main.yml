@@ -26,4 +26,4 @@
       state: restarted
 
   
- 
+  ## ansible-playbook –i inventory.ini mongodb.yml
