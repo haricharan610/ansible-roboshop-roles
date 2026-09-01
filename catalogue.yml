@@ -1,0 +1,7 @@
+---
+- name: configure catalogue component
+  hosts: catalogue
+  become: true
+
+  roles:
+    - catalogue
